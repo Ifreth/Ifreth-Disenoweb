@@ -1,0 +1,24 @@
+ mi primer commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   Bibliografia.html
+#	new file:   Html5CSS3.html
+#	new file:   InformacionGithub.html
+#	new file:   Inicio.html
+#	new file:   font.css
+#	new file:   fonts/icomoon.eot
+#	new file:   fonts/icomoon.svg
+#	new file:   fonts/icomoon.ttf
+#	new file:   fonts/icomoon.woff
+#
+# Changes not staged for commit:
+#	deleted:    Desarrollo web.html
+#	deleted:    Lecturas.html
+#	deleted:    Multimedia.html
+#	deleted:    actividades.html
+#	modified:   autores.html
+#	modified:   css/style.css
+#
